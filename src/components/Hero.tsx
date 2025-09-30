@@ -49,7 +49,7 @@ const Hero = () => {
         </div>
         
         <div className="flex flex-col sm:flex-row gap-4 justify-center animate-fade-in-delay-4">
-          <a href="src\components\Resume_Adhway_2.pdf" target='main' className="px-8 py-3 bg-gradient-to-r from-cyan-500 to-purple-500 rounded-full font-medium hover:shadow-lg hover:shadow-cyan-500/25 transition-all duration-300 hover:scale-105">
+          <a href="https://drive.google.com/file/d/13UnbgEQVDyGAgpj7lIlxK9kQjc8Vfivl/view?usp=sharing" target='main' className="px-8 py-3 bg-gradient-to-r from-cyan-500 to-purple-500 rounded-full font-medium hover:shadow-lg hover:shadow-cyan-500/25 transition-all duration-300 hover:scale-105">
             View My Resume
           </a>
           <a href="#contact" className="px-8 py-3 border border-slate-600 rounded-full font-medium hover:bg-slate-700/50 transition-all duration-300">
