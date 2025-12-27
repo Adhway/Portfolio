@@ -24,7 +24,7 @@ const Education = () => {
       field: "Computer Science and Engineering",
       institution: "University of Petroleum & Energy Studies",
       duration: "2022 - 2026",
-      grade: "7.16 CGPA",
+      grade: "6.86 CGPA",
       location: "Dehradun, India",
     }
   ];
