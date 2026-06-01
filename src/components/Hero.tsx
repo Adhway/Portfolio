@@ -43,7 +43,7 @@ const Hero = () => {
           <a href="https://github.com/Adhway" target='main' className="p-3 bg-slate-700/50 hover:bg-slate-600/50 rounded-full transition-all duration-300 hover:scale-110">
             <Github size={24} />
           </a>
-          <a href="https://www.linkedin.com/in/adhway-sharma-566375256/" target='main'className="p-3 bg-slate-700/50 hover:bg-slate-600/50 rounded-full transition-all duration-300 hover:scale-110">
+          <a href="https://www.linkedin.com/in/adhway-sharma-592170413/" target='main'className="p-3 bg-slate-700/50 hover:bg-slate-600/50 rounded-full transition-all duration-300 hover:scale-110">
             <Linkedin size={24} />
           </a>
         </div>
