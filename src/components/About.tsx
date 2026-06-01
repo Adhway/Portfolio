@@ -42,7 +42,7 @@ const About = () => {
           <div className="space-y-6">
             <h3 className="text-2xl font-semibold text-white mb-4">My Journey</h3>
             <p className="text-slate-300 leading-relaxed">
-              Currently pursuing my Bachelor's degree in Computer Science and Engineering, I have developed 
+              Completed  my Bachelor's degree in Computer Science and Engineering, I have developed 
               a strong interest in programming languages and their algorithm. Through various 
               projects and internships, I've gained hands-on experience in coding related to the languages 
               like C#,C++,Java and Python.
